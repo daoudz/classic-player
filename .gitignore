@@ -1,0 +1,30 @@
+# Build cache and downloaded archives
+build/cache/
+*.zip
+*.7z
+*.tar.gz
+
+# Large external engine binaries in dist (generated via build scripts)
+dist/ClassicPlayer-Windows-Portable/*.dll
+dist/ClassicPlayer-Windows-Portable/mpv.exe
+dist/ClassicPlayer-Windows-Portable/mpv.com
+dist/ClassicPlayer-macOS-Portable/bin/
+dist/ClassicPlayer-macOS-Portable/mpv
+dist/ClassicPlayer-macOS/
+
+# User runtime state, shader cache and logs
+**/cache/
+classicplayer-state.txt
+*.log
+test_out.png
+test_shot*
+*.tmp
+
+# User captured screenshots
+**/screenshots/*.png
+!**/screenshots/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
