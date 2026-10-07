@@ -6,6 +6,17 @@ Like VLC, it plays virtually any audio and video format right out of the box wit
 
 ---
 
+### 📥 Ready-to-Run Releases
+
+| Platform | Download Package | Description |
+| :--- | :--- | :--- |
+| **Windows 10 / 11** | [**`ClassicPlayer-v1.0.0-Windows-x64.zip`**](https://github.com/daoudz/classic-player/releases/download/v1.0.0-windows/ClassicPlayer-v1.0.0-Windows-x64.zip) | Standalone portable folder with embedded engine & `ClassicPlayer.exe`. |
+| **macOS** | [**`ClassicPlayer-v1.0.0-macOS.zip`**](https://github.com/daoudz/classic-player/releases/download/v1.0.0-macos/ClassicPlayer-v1.0.0-macOS.zip) | Portable runner (`.command`) and automated `.app` bundle builder. |
+
+👉 View all releases on GitHub: **[Releases Page](https://github.com/daoudz/classic-player/releases)**
+
+---
+
 ## ✨ Features
 
 - **4 Authentic Classic Themes**:
